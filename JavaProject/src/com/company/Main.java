@@ -1,3 +1,5 @@
+package com.company;
+
 import com.company.model.*;
 import com.company.util.Converter;
 
